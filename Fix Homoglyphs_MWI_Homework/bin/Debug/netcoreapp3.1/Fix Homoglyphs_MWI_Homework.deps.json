@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Fix Homoglyphs_MWI_Homework/1.0.0": {
+        "runtime": {
+          "Fix Homoglyphs_MWI_Homework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fix Homoglyphs_MWI_Homework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
